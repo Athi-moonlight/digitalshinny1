@@ -5,7 +5,7 @@ library(ggplot2)
 library(dplyr)
 library(DT)
 
-# change it
+# load data
 dig_data <- read.csv("DIG.csv")
 
 # Define UI
