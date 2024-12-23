@@ -27,6 +27,7 @@ ui <- dashboardPage(
                     DTOutput("data_table"))
               )
       ),
+
       
       # Tab 2: Key Variables
       tabItem(tabName = "variables",
